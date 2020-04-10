@@ -81,3 +81,13 @@ section:nth-child(even) {
   justify-content: center;
   align-items: center;
 }
+
+footer a {
+  color: #fff !important;
+  margin: 0 10px;
+  text-align: center;
+}
+
+footer p {
+  color: #fff;
+}

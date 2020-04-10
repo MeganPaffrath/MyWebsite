@@ -41,12 +41,15 @@ styles: home.css
 
 <img class="wrap-left" src="imgs/image.png" alt="megan_paffrath">
 
-## Photo Re-namer
+#### Photo Re-namer
 
-This program utilizes exif data to figure out when a photo/video was taken.
-Using that data, it changes the name of multiple photos/videos at a time to
-contain the date and time the photos/videos were taken.
+This program utilizes exif data to figure out when photos and videos were taken.
+Using that data, it changes the file name of multiple photos and videos at a time to
+contain the date and time the photos and videos were taken.
 This program works for jpg, mp4, and MOV files.
+<a href="https://github.com/MeganPaffrath/photoRenamer" target="\_blank">See program on github!</a>
+
+Technologies used for this project include: Python
 
 </div>
 
@@ -54,15 +57,16 @@ This program works for jpg, mp4, and MOV files.
 
 <img class="wrap-left" src="imgs/simon.png" alt="megan_paffrath">
 
-## Simon Memory Game
+#### Simon Memory Game
 
 The computer creates a pattern that the user must guess correctly
-to move foreward. Every time the user guesses correctly, the computer
-adds one more item to the pattern. The pattern gets progressively
+to move forward. Every time the user guesses correctly, the computer
+adds one more event to the pattern. The pattern gets progressively
 longer until the player fails to guess the pattern properly.
-This game was created as an assignment in an online course.
-Also, this game is not yet available for mobile.
-A mobile version may be coming soon.
+This game was created with the help of an <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="\_blank">online course</a>.
+Also, this game is not yet available for mobile. <a href="https://meganpaffrath.github.io/simonGame/" target="\_blank">Play Now on Computer!</a>
+
+Technologies used for this project include: JavaScript, HTML, CSS
 
 </div>
 
@@ -70,9 +74,11 @@ A mobile version may be coming soon.
 
 <img class="wrap-left" src="imgs/website.png" alt="megan_paffrath">
 
-## This Website!
+#### This Website
 
-This website
+This passion project of mine is a result of my continuous efforts to learn new web development skills. It is an ever-evolving project in which changes are constantly being made.
+
+Technologies used for this project include: JavaScript, HTML, CSS, Metalsmith, Nunjucks
 
 </div>
 
