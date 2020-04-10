@@ -8,7 +8,7 @@ body {
 
 nav, main, footer {
   /* automatically shrink is set to 1
-    1 = items shrnk when there is not enough space
+  // 1 = items shrnk when there is not enough space
   */
   flex-shrink: 0; /* prevents items from shrinking */
 }

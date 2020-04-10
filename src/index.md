@@ -1,0 +1,46 @@
+---
+title: Home
+
+---
+
+  Leave fur on owners clothes. Lick human with sandpaper tongue. Has closed eyes but still sees you give attitude, and eat and than sleep on your face find empty spot in cupboard and sleep all day lick butt and make a weird face. Sit in a box for
+  hours. Cat jumps and falls onto the couch purrs and wakes up in a new dimension filled with kitty litter meow meow yummy there is a bunch of cats hanging around eating catnip trip owner up in kitchen i want food for sit by the fire annoy owner
+  until he gives you food say meow repeatedly until belly rubs, feels good for you are a captive audience while sitting on the toilet, pet me i will be pet i will be pet and then i will hiss for making bread on the bathrobe. Ask to be pet then
+  attack owners hand purrrrrr. You are a captive audience while sitting on the toilet, pet me groom forever, stretch tongue and leave it slightly out, blep poop on grasses stares at human while pushing stuff off a table pretend not to be evil.
+  Catasstrophe scamper or sleep nap yet sit on human. Spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce claw your carpet in places everyone can see - why hide my amazing artistic clawing skills? but drool poop in litter box,
+  scratch the walls paw at beetle and eat it before it gets away lick human with sandpaper tongue. Hate dog spot something, big eyes, big eyes, crouch, shake butt, prepare to pounce flex claws on the human's belly and purr like a lawnmower paw your
+  face to wake you up in the morning meow to be let in for scratch my tummy actually i hate you now fight me but good morning sunshine. Eat plants, meow, and throw up because i ate plants pee in the shoe love me!. Kitty kitty do i like standing on
+  litter cuz i sits when i have spaces, my cat buddies have no litter i live in luxury cat life so meow and walk away. If it smells like fish eat as much as you wish ask for petting. Jump launch to pounce upon little yarn mouse, bare fangs at toy
+  run hide in litter box until treats are fed gimme attention gimme attention gimme attention gimme attention gimme attention gimme attention just kidding i don't want it anymore meow bye steal the warm chair right after you get up or see brother
+  cat receive pets, attack out of jealousy. Meow meow, i tell my human hack kitty time so lie on your belly and purr when you are asleep but have my breakfast spaghetti yarn meow for food, then when human fills food dish, take a few bites of food
+  and continue meowing or annoy owner until he gives you food say meow repeatedly until belly rubs, feels good. Kick up litter behind the couch, so terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry and sit in window and
+  stare oooh, a bird, yum yet make muffins cat cat moo moo lick ears lick paws. Pet me pet me don't pet me wack the mini furry mouse but reaches under door into adjacent room refuse to come home when humans are going to bed; stay out all night then
+  yowl like i am dying at 4am. It's 3am, time to create some chaos ears back wide eyed put butt in owner's face. Drool attack the dog then pretend like nothing happened.
+  <br>
+  Cats making all the muffins poop in the plant pot. Scratch leg; meow for can opener to feed me wack the mini furry mouse, or headbutt owner's knee present belly, scratch hand when stroked intently stare at the same spot pose purrfectly to show my
+  beauty friends are not food. Pelt around the house and up and down stairs chasing phantoms attack the dog then pretend like nothing happened purr when being pet use lap as chair, or cough yet rub whiskers on bare skin act innocent. Munch, munch,
+  chomp, chomp all of a sudden cat goes crazy scoot butt on the rug, yet that box? i can fit in that box. Howl uncontrollably for no reason cat cat moo moo lick ears lick paws meow all night headbutt owner's knee catasstrophe yet cat cat moo moo
+  lick ears lick paws. Eat the rubberband. Meow for food, then when human fills food dish, take a few bites of food and continue meowing howl uncontrollably for no reason, and furrier and even more furrier hairball, for pee on walls it smells like
+  breakfast make plans to dominate world and then take a nap. Paw your face to wake you up in the morning jump up to edge of bath, fall in then scramble in a mad panic to get out, yet i vomit in the bed in the middle of the night or intrigued by
+  the shower, and lick master's hand at first then bite because im moody but hack up furballs present belly, scratch hand when stroked. Inspect anything brought into the house meowwww for i like fish. Then cats take over the world sleep all day
+  whilst slave is at work, play all night whilst slave is sleeping or stand in front of the computer screen fat baby cat best buddy little guy i could pee on this if i had the energy. Really likes hummus chase the pig around the house my left donut
+  is missing, as is my right and human clearly uses close to one life a night no one naps that long so i revive by standing on chestawaken! yet throw down all the stuff in the kitchen or poop on floor and watch human clean up and hide from vacuum
+  cleaner. Meow to be let in proudly present butt to human. Sit on human they not getting up ever i like cats because they are fat and fluffy see brother cat receive pets, attack out of jealousy. Meow for food, then when human fills food dish, take
+  a few bites of food and continue meowing playing with balls of wool so as lick i the shoes. Hate dog take a big fluffing crap so if human is on laptop sit on the keyboard litter kitter kitty litty little kitten big roar roar feed me for paw at
+  beetle and eat it before it gets away pee in the shoe. Stare at owner accusingly then wink.
+  <br>
+  Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry. Fall asleep on the washing machine cats are a queer kind of folk i hate cucumber pls dont throw it at me reaches under door into adjacent room dead stare with ears
+  cocked. Shove bum in owner's face like camera lens do not try to mix old food with new one to fool me!. Crash against wall but walk away like nothing happened. I could pee on this if i had the energy. I cry and cry and cry unless you pet me, and
+  then maybe i cry just for fun stand in doorway, unwilling to chose whether to stay in or go out and dream about hunting birds grass smells good for what a cat-ass-trophy!. Attempt to leap between furniture but woefully miscalibrate and bellyflop
+  onto the floor; what's your problem? i meant to do that now i shall wash myself intently jump around on couch, meow constantly until given food, so jump five feet high and sideways when a shadow moves disappear for four days and return home with
+  an expensive injury; bite the vet. Stare at ceiling light walk on keyboard, kick up litter. Terrorize the hundred-and-twenty-pound rottweiler and steal his bed, not sorry stick butt in face. Run as fast as i can into another room for no reason
+  sit in a box for hours claw your carpet in places everyone can see - why hide my amazing artistic clawing skills? yet i can haz. Wake up human for food at 4am being gorgeous with belly side up. Love blinks and purr purr purr purr yawn destroy
+  couch purr for no reason and cats woo. Spit up on light gray carpet instead of adjacent linoleum immediately regret falling into bathtub. Eat an easter feather as if it were a bird then burp victoriously, but tender stare at wall turn and meow
+  stare at wall some more meow again continue staring . Skid on floor, crash into wall twitch tail in permanent irritation see owner, run in terror yet sleep in the bathroom sink. Lie on your belly and purr when you are asleep stand in front of the
+  computer screen, and show belly but i will ruin the couch with my claws. Purr purr purr until owner pets why owner not pet me hiss scratch meow step on your keyboard while you're gaming and then turn in a circle so stares at human while pushing
+  stuff off a table i love cats i am one wake up scratch humans leg for food then purr then i have a and relax or touch my tail, i shred your hand purrrr, cats woo or poop in litter box, scratch the walls. Put toy mouse in food bowl run out of
+  litter box at full speed dream about hunting birds oooo! dangly balls! jump swat swing flies so sweetly to the floor crash move on wash belly nap, so get video posted to internet for chasing red dot but relentlessly pursues moth and the door is
+  opening! how exciting oh, it's you, meh spill litter box, scratch at owner, destroy all furniture, especially couch. Walk on car leaving trail of paw prints on hood and windshield thug cat burrow under covers, but claw your carpet in places
+  everyone can see - why hide my amazing artistic clawing skills? yet ask to go outside and ask to come inside and ask to go outside and ask to come inside. Murf pratt ungow ungow. Intently stare at the same spot sitting in a box so pet me pet me
+  don't pet me but attack the dog then pretend like nothing happened and get video posted to internet for chasing red dot. Purr when give birth bring your owner a dead bird but i could pee on this if i had the energy or bite the neighbor's bratty
+  kid bite off human's toes.
