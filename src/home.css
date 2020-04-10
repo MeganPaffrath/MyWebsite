@@ -1,0 +1,21 @@
+
+
+.hello {
+
+}
+
+.picture-of-me {
+  border-radius: 50%;
+  width: 50%;
+  vertical-align: center;
+}
+
+.projects {
+
+}
+
+.wrap-left {
+  float: left;
+  width: 100px;
+  padding-right: 10px;
+}

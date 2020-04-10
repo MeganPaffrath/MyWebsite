@@ -13,3 +13,4 @@ package-lock.json
 .DS_Store
 
 # Ignore generated html from the template engine
+build/
