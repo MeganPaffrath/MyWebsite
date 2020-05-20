@@ -4,6 +4,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import Navbar from "./navbar";
 import Footer from "./footer";
+import Home from "./home";
 
 
 let navBar = (
@@ -17,8 +18,10 @@ class App extends React.Component {
   }
 
   render() {
+    let content = <Home/>;
+
     return ( <div>
-      contents
+      {content}
       </div>
     );
   }

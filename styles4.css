@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  min-height: 100vh;
+}
+
+nav, main, footer {
+  /* automatically shrink is set to 1
+    1 = items shrnk when there is not enough space
+  */
+  flex-shrink: 0; /* prevents items from shrinking */
+}
+
+nav {
+  background-color: #73a4a7;
+}
+
+main {
+  background-color: #b9c189;
+  flex-grow: 1; /* will grow to fill available space*/
+  padding: 2% 20%;
+}
+
+footer {
+  background-color: #ec8f90;
+  text-align: center;
+}

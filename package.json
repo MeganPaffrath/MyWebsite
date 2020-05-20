@@ -18,6 +18,7 @@
   "homepage": "https://github.com/MeganPaffrath/myWebsite#readme",
   "dependencies": {
     "font-awesome": "^4.7.0",
+    "imgs": "0.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-fontawesome": "^1.7.1"
