@@ -4,8 +4,16 @@
 
 .picture-of-me {
   border-radius: 50%;
-  width: 50%;
+  width: 300px;
   vertical-align: center;
+}
+
+
+@media only screen and (max-width: 768px){
+  .picture-of-me {
+    width: 70%;
+    padding: 10px;
+  }
 }
 
 .projects {

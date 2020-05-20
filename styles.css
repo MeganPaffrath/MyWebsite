@@ -1,13 +1,11 @@
 
-
 :root {
-   --hdr-ftr: #69585F;
-   --bk-one: #D9DBBC;
-   --bk-two: #FCDDBC;
-   --emph-one: #EF959D;
-   --emph-two: #B8D8BA;
+   --hdr-ftr: #5C9EAD;
+   --bk-one: #DADADA;
+   --bk-two: #C7D1D3;
+   --emph-one: #344966;
+   --emph-two: #55D6BE;
  }
-
 
 body {
   margin: 0;
@@ -51,6 +49,10 @@ h1 {
   color: var(--emph-one) !important;
   /* text-align: center; */
 }
+
+/* h4 {
+  color: var(--emph-two);
+} */
 
 /* sections */
 section {

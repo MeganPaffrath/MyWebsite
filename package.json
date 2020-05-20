@@ -21,6 +21,7 @@
     "imgs": "0.0.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-fontawesome": "^1.7.1"
+    "react-fontawesome": "^1.7.1",
+    "react-pdf": "^4.1.0"
   }
 }
