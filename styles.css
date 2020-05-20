@@ -46,13 +46,6 @@ footer {
   padding: 5px 20%;
 }
 
-@media screen and (max-width: 770px) {
-  nav, main, footer {
-    padding-left: 5% !important;
-    padding-right: 5% !important;
-  }
-}
-
 /* Text */
 h1 {
   color: var(--emph-one) !important;
@@ -71,6 +64,7 @@ section:nth-child(even) {
   padding: 30px 20%;
   margin: 0;
 }
+
 
 /* .center {
   text-align: right;
