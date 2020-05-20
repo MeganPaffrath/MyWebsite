@@ -19,7 +19,6 @@ let current = (
     <h2>Current College Classes</h2>
     <h4>
     Programming:<br/>
-    <span class="badge badge-light">Programmer</span>
     <span class="badge badge-light">Analysis of Algorithms</span>
     <span class="badge badge-light">Computer Architecture</span>
     <span class="badge badge-light">Computer Networks</span>
@@ -88,7 +87,7 @@ let pastOnline = (
 )
 
 
-class About extends React.Component {
+class MyCoursework extends React.Component {
 
   render() {
     return <div>
@@ -101,4 +100,4 @@ class About extends React.Component {
   }
 }
 
-export default About;
+export default MyCoursework;

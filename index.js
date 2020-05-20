@@ -5,7 +5,7 @@ import ReactDOM from "react-dom";
 import Navbar from "./navbar";
 import Footer from "./footer";
 import Home from "./home";
-import About from "./about";
+import MyCoursework from "./coursework";
 
 
 let navBar = (
@@ -20,11 +20,11 @@ class App extends React.Component {
 
   render() {
     let content = <Home/>;
-    let about = <About/>;
+    let coursework = <MyCoursework/>;
 
     return ( <div>
       {content}
-      {about}
+      {coursework}
       </div>
     );
   }
