@@ -53,17 +53,30 @@ h1 {
 }
 
 /* sections */
-section:nth-child(odd) {
-  background-color: var(--bk-one);
+section {
   padding: 30px 20%;
   margin: 0;
+}
+section:nth-child(odd) {
+  background-color: var(--bk-one);
 }
 
 section:nth-child(even) {
   background-color: var(--bk-two);
-  padding: 30px 20%;
-  margin: 0;
 }
+
+@media only screen and (max-width: 600px) {
+  section {
+    padding: 5px 20px;
+    margin: 0;
+  }
+}
+
+/* Icons About Me */
+.badge {
+  margin: 2px;
+}
+
 
 
 /* .center {
