@@ -14,3 +14,6 @@ package-lock.json
 
 # Ignore generated html from the template engine
 build/
+
+.cache
+dist
