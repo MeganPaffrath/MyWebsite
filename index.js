@@ -19,17 +19,14 @@ class App extends React.Component {
   render() {
 
     return (
-      <div>
-        <Education />
-      </div>
-
-      // <Router>
-      //   <div>
-      //     <Route path="/education" component={Education} />
-      //     <Home />
-      //   </div>
-      //
-      // </Router>
+      <Router>
+        <div>
+        <Switch>
+          <Route path="/" exact component={Home} />
+          <Route path="/Education" component={Education} />
+        </Switch>
+        </div>
+      </Router>
     );
   }
 }

@@ -15,7 +15,7 @@ class Navbar extends React.Component {
       </button>
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
-          <a class="nav-item nav-link" href="#">Home</a>
+          <a class="nav-item nav-link" href="/">Home</a>
           <a class="nav-item nav-link" href="/Education">Eductaion</a>
           <a class="nav-item nav-link" href="#">Resume</a>
         </div>
