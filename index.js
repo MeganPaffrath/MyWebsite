@@ -5,27 +5,31 @@ import ReactDOM from "react-dom";
 import Navbar from "./navbar";
 import Footer from "./footer";
 import Home from "./home";
-import MyCoursework from "./coursework";
+import Education from "./education";
+import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
 
 let navBar = (
   <nav>navy</nav>
 );
 
+
 class App extends React.Component {
 
-  Navbar(props) {
-    return myNav;
-  }
-
   render() {
-    let content = <Home/>;
-    let coursework = <MyCoursework/>;
 
-    return ( <div>
-      {content}
-      {coursework}
+    return (
+      <div>
+        <Education />
       </div>
+
+      // <Router>
+      //   <div>
+      //     <Route path="/education" component={Education} />
+      //     <Home />
+      //   </div>
+      //
+      // </Router>
     );
   }
 }

@@ -87,7 +87,7 @@ let pastOnline = (
 )
 
 
-class MyCoursework extends React.Component {
+class Education extends React.Component {
 
   render() {
     return <div>
@@ -100,4 +100,4 @@ class MyCoursework extends React.Component {
   }
 }
 
-export default MyCoursework;
+export default Education;
