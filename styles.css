@@ -5,6 +5,7 @@
    --bk-two: #F1F1DC;
    --emph-one: #70877F; /* h1 70877F*/
    --emph-two: #817F95; /* h4 4F5D75*/
+   --h-five: #8DB580;
    --black: #020202;
    --white: #ffffff;
    --nav-txt: #F1F1DC;
@@ -82,12 +83,12 @@ body h1 {
 }
 
 body h4 {
-  padding: 0;
+  padding: 5px 0;
   color: var(--emph-two);
 }
 
 body h5 {
-  color: green;
+  color: var(--h-five);
 }
 
 body p {
@@ -144,4 +145,9 @@ footer a {
 
 footer p {
   color: var(--nav-txt);
+}
+
+/* EDUCATION */
+.courses {
+
 }
