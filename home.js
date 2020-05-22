@@ -69,9 +69,11 @@ let projects = (
   <p>This program utilizes exif data to figure out when photos and videos were taken.
   Using that data, it changes the file name of multiple photos and videos at a time to
   contain the date and time the photos and videos were taken.
-  This program works for jpg, mp4, and MOV files.
-  <a href="https://github.com/MeganPaffrath/photoRenamer" target="\_blank">See program on github!</a></p>
-  <center><button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></center>
+  This program works for jpg, mp4, and MOV files.</p>
+  <center>
+  <a href="https://github.com/MeganPaffrath/photoRenamer" target="\_blank">
+  <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></a>
+  </center>
 
   </div>
 
@@ -86,8 +88,17 @@ let projects = (
   adds one more event to the pattern. The pattern gets progressively
   longer until the player fails to guess the pattern properly.
   This game was created with the help of an <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="\_blank">online course</a>.
-  Also, this game is not yet available for mobile. <a href="https://meganpaffrath.github.io/simonGame/" target="\_blank">Play Now on Computer!</a></p>
-  <center><button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></center>
+  Also, this game is not yet available for mobile.</p>
+
+  <center>
+  <a href="https://github.com/MeganPaffrath/simonGame" target="\_blank">
+  <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></a>
+  </center>
+  <br/>
+  <center>
+  <a href="https://meganpaffrath.github.io/simonGame/" target="\_blank">
+  <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> Play on PC</button></a>
+  </center>
   </div>
   </div>
   </section>
