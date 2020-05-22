@@ -55,17 +55,20 @@ let projects = (
   <div class="project">
   <h4 id="this-website">This Website</h4>
   <p class="tech"><FontAwesome name="arrow-right"/> React, JavaScript, HTML, CSS</p>
-  <p>This passion project of mine is a result of my continuous efforts to learn new web development skills. It is an ever-evolving project in which changes are constantly being made.</p>
+  <p>This passion project of mine is a result of my continuous efforts to learn
+  new web development skills. It is an ever-evolving project in which changes
+  are constantly being made. It all began as simple HTML, CSS, and JavaScript.
+  Later this page evolved to become a templated webpage using nunjucks.
+  And now, this web page is made up of multiple React components thus
+  enabling greater scalability and optimality for the future!</p>
   <center>
   <a href="https://github.com/MeganPaffrath/MyWebsite" target="\_blank">
   <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></a>
   </center>
   </div>
-
   <hr/>
 
   <div class="project">
-
   <h4 id="photo-re-namer">Photo Re-namer</h4>
   <p class="tech"><FontAwesome name="arrow-right"/> Python</p>
   <p>This program utilizes exif data to figure out when photos and videos were taken.
@@ -76,13 +79,23 @@ let projects = (
   <a href="https://github.com/MeganPaffrath/photoRenamer" target="\_blank">
   <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></a>
   </center>
-
   </div>
-
   <hr/>
 
   <div class="project">
+  <h4 id="appointment-alert">Appointment Alert System</h4>
+  <p class="tech"><FontAwesome name="arrow-right"/> C++, Twilio API</p>
+  <p>    * Provides a way for doctors office personal to store patient information and appointments.
+  Whenever new patients register, they receive a text message. When a patient creates a new appointment,
+  they also receive a text message to verify that their appointment was properly created.</p>
+  <center>
+  <a href="https://github.com/MeganPaffrath/photoRenamer" target="\_blank">
+  <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></a>
+  </center>
+  </div>
+  <hr/>
 
+  <div class="project">
   <h4 id="simon-memory-game">Simon Memory Game</h4>
   <p class="tech"><FontAwesome name="arrow-right"/> JavaScript, HTML, CSS</p>
   <p>The computer creates a pattern that the user must guess correctly

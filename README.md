@@ -2,3 +2,4 @@
 
 * Fix:
   * "Technologies" - indent a few pixels
+  * google analytics
