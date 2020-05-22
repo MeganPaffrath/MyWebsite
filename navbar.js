@@ -10,6 +10,7 @@ class Navbar extends React.Component {
   render() {
     let content = [
       <nav class="navbar navbar-expand-lg navbar-dark">
+      <div class ="container">
       <a class="navbar-brand" href="#">Megan Paffrath</a>
       <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
@@ -17,9 +18,10 @@ class Navbar extends React.Component {
       <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
         <div class="navbar-nav">
           <a class="nav-item nav-link" href="/">Home</a>
-          <a class="nav-item nav-link" href="/Education">Eductaion</a>
+          <a class="nav-item nav-link" href="/Education">Education</a>
           <a class="nav-item nav-link" href={resume} target="_blank">Resume</a>
         </div>
+      </div>
       </div>
     </nav>
   ];

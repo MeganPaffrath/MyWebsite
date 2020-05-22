@@ -15,6 +15,7 @@ import homeStyles from "./home.css";
 
 let hello = (
   <section class="hello">
+  <div class="container">
   <div class="row">
     <div class="col-lg-6 center-tb center">
       <img class="picture-of-me" src={photo} alt="megan_paffrath"/>
@@ -35,13 +36,13 @@ let hello = (
       </h3>
     </div>
     </div>
-
+    </div>
   </section>
 );
 
 let projects = (
   <section class="projects">
-
+  <div class="container">
   <h1 id="projects">Projects</h1>
   <div>
   <img class="wrap-left" src={website} alt="megan_paffrath"/>
@@ -72,9 +73,7 @@ let projects = (
   Also, this game is not yet available for mobile. <a href="https://meganpaffrath.github.io/simonGame/" target="\_blank">Play Now on Computer!</a></p>
   <center><p><FontAwesome name="arrow-right"/> <b>Technologies: </b>JavaScript, HTML, CSS</p></center>
   </div>
-
-
-
+  </div>
   </section>
 );
 

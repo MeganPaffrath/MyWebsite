@@ -1,10 +1,12 @@
 
 :root {
-   --hdr-ftr: #613130;
-   --bk-one: #DDE2D7;
-   --bk-two: #ddd4ca;
-   --emph-one: #AF9164; /* h1 */
-   --emph-two: #AC5151; /* h4 */
+   --hdr-ftr: #416165;
+   --bk-one: #FEFEEA;
+   --bk-two: #F1F1DC;
+   --emph-one: #70877F; /* h1 */
+   --emph-two: #4F5D75; /* h4 */
+   --black: #020202;
+   --white: #ffffff;
  }
 
 
@@ -31,17 +33,9 @@ nav, main, footer {
   flex-shrink: 0; /* prevents items from shrinking */
 }
 
-@media only screen and (min-width: 600px) {
-  section {
-    padding: 5px 30%;
-    margin: 0;
-    background-color: purple;
-  }
-}
-
 body nav {
   background-color: var(--hdr-ftr);
-  padding: 5px 20% !important;
+  /* padding: 5px 20% !important; */
 }
 
 .navbar-nav {
@@ -49,6 +43,15 @@ body nav {
   padding-left: 0;
 }
 
+.navbar-brand {
+  color: red;
+}
+
+.container {
+  max-width: 750px;
+  /* padding: 0 20%; */
+  margin: 0 auto;
+}
 
 main {
   background-color: var(--bk-one);
@@ -71,11 +74,16 @@ body h4 {
   color: var(--emph-two);
 }
 
+body p {
+  color: var(--black);
+}
 /* sections */
 section {
-  padding: 30px 20%;
+  padding: 30px 0;
   margin: 0;
+  /* background-color: var(--bk-one); */
 }
+
 section:nth-child(odd) {
   background-color: var(--bk-one);
 }

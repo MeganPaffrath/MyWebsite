@@ -17,7 +17,7 @@ class Footer extends React.Component {
   }
 
   render() {
-    return <div>{this.Footer(this)}</div>;
+    return <div class="container">{this.Footer(this)}</div>;
   }
 
 }

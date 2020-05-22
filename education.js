@@ -8,14 +8,17 @@ import faStyles from 'font-awesome/css/font-awesome.css';
 
 let courseWork = (
   <section class="courseWork">
+  <div class="container">
   <h1>Course Work</h1>
   <p>I am currently taking courses both through college and online resourses.
   Below are classes that I am taking and classes that I have taken.</p>
+  </div>
   </section>
 );
 
 let current = (
   <section>
+    <div class="container">
     <h2>Current College Classes</h2>
     <h4>
     Programming:<br/>
@@ -25,11 +28,13 @@ let current = (
     <span class="badge badge-light">Operating Systems</span>
     <span class="badge badge-light">Website development</span>
     </h4>
+    </div>
   </section>
 );
 
 let currentOnline = (
   <section>
+  <div class="container">
   <h2>Current Online Classes</h2>
   <h4>
   Programming:<br/>
@@ -39,11 +44,13 @@ let currentOnline = (
   <span class="badge badge-light">Character Art</span>
   <span class="badge badge-light">Guitar System</span>
   </h4>
+  </div>
 </section>
 );
 
 let past = (
   <section>
+  <div class="container">
     <h2>Past College Classes</h2>
     <h4>
     Programming:<br/>
@@ -74,15 +81,18 @@ let past = (
       <span class="badge badge-light">Astronomy</span>
       <span class="badge badge-light">Materials Science</span>
     </h4>
+    </div>
   </section>
 )
 
 let pastOnline = (
   <section>
+  <div class="container">
   <h2>Past Online Classes</h2>
   <h4>
     <span class="badge badge-light">Responsive Web Design</span>
   </h4>
+  </div>
 </section>
 )
 
