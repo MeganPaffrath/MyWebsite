@@ -95,10 +95,6 @@ body p {
   color: var(--black);
 }
 
-a {
-  color: var(--links) !important;
-}
-
 /* sections */
 section {
   padding: 30px 0;
@@ -121,6 +117,10 @@ section:nth-child(even) {
   }
 } */
 
+body a, body a:hover {
+  color: var(--hdr-ftr);
+}
+
 
 /* Icons About Me */
 .badge {
@@ -141,6 +141,10 @@ footer a {
   color: var(--nav-txt);
   margin: 0 10px;
   text-align: center;
+}
+
+footer a:hover {
+  color: var(--nav-txt);
 }
 
 footer p {

@@ -56,7 +56,6 @@ let projects = (
   <h4 id="this-website">This Website</h4>
   <p class="tech"><FontAwesome name="arrow-right"/> React, JavaScript, HTML, CSS</p>
   <p>This passion project of mine is a result of my continuous efforts to learn new web development skills. It is an ever-evolving project in which changes are constantly being made.</p>
-  <p>This passion project of mine is a result of my continuous efforts to learn new web development skills. It is an ever-evolving project in which changes are constantly being made.</p>
   <center><button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></center>
   </div>
 
