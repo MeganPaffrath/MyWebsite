@@ -31,7 +31,15 @@ nav, main, footer {
   flex-shrink: 0; /* prevents items from shrinking */
 }
 
-nav {
+@media only screen and (min-width: 600px) {
+  section {
+    padding: 5px 30%;
+    margin: 0;
+    background-color: purple;
+  }
+}
+
+body nav {
   background-color: var(--hdr-ftr);
   padding: 5px 20% !important;
 }
@@ -76,23 +84,17 @@ section:nth-child(even) {
   background-color: var(--bk-two);
 }
 
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
   section {
     padding: 5px 20px;
     margin: 0;
   }
-}
+} */
 
 /* Icons About Me */
 .badge {
   margin: 2px;
 }
-
-
-
-/* .center {
-  text-align: right;
-} */
 
 .center {
   display: flex;

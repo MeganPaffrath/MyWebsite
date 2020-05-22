@@ -3,6 +3,7 @@
 
 import React from "react";
 import ReactDOM from "react-dom";
+import resume from "./resume-megan-paffrath.pdf";
 
 class Navbar extends React.Component {
 
@@ -17,7 +18,7 @@ class Navbar extends React.Component {
         <div class="navbar-nav">
           <a class="nav-item nav-link" href="/">Home</a>
           <a class="nav-item nav-link" href="/Education">Eductaion</a>
-          <a class="nav-item nav-link" href="#">Resume</a>
+          <a class="nav-item nav-link" href={resume} target="_blank">Resume</a>
         </div>
       </div>
     </nav>

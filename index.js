@@ -9,11 +9,6 @@ import Education from "./education";
 import {BrowserRouter as Router, Switch, Route} from 'react-router-dom';
 
 
-let navBar = (
-  <nav>navy</nav>
-);
-
-
 class App extends React.Component {
 
   render() {
