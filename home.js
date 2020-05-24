@@ -21,18 +21,18 @@ let hello = (
       <img class="picture-of-me" src={photo} alt="megan_paffrath"/>
     </div>
     <div class="col-lg-6 center-tb">
-    <h1 id="hello">Hello</h1>
+    <h1 id="hello">Hello!</h1>
     <p>  My name is Megan Paffrath. I am currently a college student studying computer science.
       Aside from school, I consider learning and self development to be my biggest hobbies.
       You will never fail to find me without a personal project going.
       I have many plans for future apps and websites that I look forward to creating.
       I invite you to learn more about my journey through this very website. </p>
       <h3>
-      <span class="badge"><FontAwesome name="code"/> Programmer</span>
-      <span class="badge"><FontAwesome name="music"/> Musician</span>
+      <span class="badge my-badge"><FontAwesome name="code"/> Programmer</span>
+      <span class="badge my-badge"><FontAwesome name="music"/> Musician</span>
       <br/>
-      <span class="badge"><FontAwesome name="pencil"/> Writer</span>
-      <span class="badge"><FontAwesome name="paint-brush"/> Artist</span>
+      <span class="badge my-badge"><FontAwesome name="pencil"/> Writer</span>
+      <span class="badge my-badge"><FontAwesome name="paint-brush"/> Artist</span>
       </h3>
     </div>
     </div>
@@ -69,12 +69,11 @@ let projects = (
   <hr/>
 
   <div class="project">
-  <h4 id="photo-re-namer">Photo Re-namer</h4>
-  <p class="tech"><FontAwesome name="arrow-right"/> Python</p>
-  <p>This program utilizes exif data to figure out when photos and videos were taken.
-  Using that data, it changes the file name of multiple photos and videos at a time to
-  contain the date and time the photos and videos were taken.
-  This program works for jpg, mp4, and MOV files.</p>
+  <h4 id="appointment-alert">Appointment Alert System</h4>
+  <p class="tech"><FontAwesome name="arrow-right"/> C++, Twilio API</p>
+  <p>Provides a way for doctors office personal to store patient information and appointments.
+  Whenever new patients register, they receive a text message. When a patient creates a new appointment,
+  they also receive a text message to verify that their appointment was properly created.</p>
   <center>
   <a href="https://github.com/MeganPaffrath/photoRenamer" target="\_blank">
   <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></a>
@@ -83,11 +82,12 @@ let projects = (
   <hr/>
 
   <div class="project">
-  <h4 id="appointment-alert">Appointment Alert System</h4>
-  <p class="tech"><FontAwesome name="arrow-right"/> C++, Twilio API</p>
-  <p>    * Provides a way for doctors office personal to store patient information and appointments.
-  Whenever new patients register, they receive a text message. When a patient creates a new appointment,
-  they also receive a text message to verify that their appointment was properly created.</p>
+  <h4 id="photo-re-namer">Photo Re-namer</h4>
+  <p class="tech"><FontAwesome name="arrow-right"/> Python</p>
+  <p>This program utilizes exif data to figure out when photos and videos were taken.
+  Using that data, it changes the file name of multiple photos and videos at a time to
+  contain the date and time the photos and videos were taken.
+  This program works for jpg, mp4, and MOV files.</p>
   <center>
   <a href="https://github.com/MeganPaffrath/photoRenamer" target="\_blank">
   <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></a>
@@ -105,15 +105,15 @@ let projects = (
   This game was created with the help of an <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/" target="\_blank">online course</a>.
   Also, this game is not yet available for mobile.</p>
 
+  <span>
   <center>
   <a href="https://github.com/MeganPaffrath/simonGame" target="\_blank">
   <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> View on GitHub</button></a>
-  </center>
-  <br/>
-  <center>
+  &nbsp;&nbsp;
   <a href="https://meganpaffrath.github.io/simonGame/" target="\_blank">
-  <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="github"/> Play on PC</button></a>
+  <button type="button" class="btn btn-outline-secondary"> <FontAwesome name="play"/> Play in browser</button></a>
   </center>
+  </span>
   </div>
   </div>
   </section>

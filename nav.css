@@ -1,0 +1,26 @@
+:root {
+   --hdr-ftr: #416165;
+   --bk-one: #FEFEEA;
+   --bk-two: #F1F1DC;
+   --emph-one: #70877F; /* h1 70877F*/
+   --emph-two: #817F95; /* h4 4F5D75*/
+   --h-five: #8DB580;
+   --black: #020202;
+   --white: #ffffff;
+   --nav-txt: #F1F1DC;
+   --links: #235789;
+ }
+
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  height: auto;
+  z-index: 1;
+}
+
+.nav-space {
+  height: 50px;
+  /* background-color: red; */
+}

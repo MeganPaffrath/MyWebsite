@@ -24,5 +24,8 @@
     "react-fontawesome": "^1.7.1",
     "react-pdf": "^4.1.0",
     "react-router-dom": "^5.2.0"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
   }
 }
