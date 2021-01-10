@@ -1,0 +1,22 @@
+:root {
+  --hdr-ftr: #416165;
+  --bk-one: #fefeea;
+  --bk-two: #f1f1dc;
+  --emph-one: #70877f; /* h1 70877F*/
+  --emph-two: #817f95; /* h4 4F5D75*/
+  --h-five: #8db580;
+  --black: #020202;
+  --white: #ffffff;
+  --nav-txt: #f1f1dc;
+  --links: #235789;
+}
+
+body h1,
+body h2,
+body h3 {
+  color: var(--emph-one);
+}
+
+body h4 {
+  color: var(--emph-two);
+}
