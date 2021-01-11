@@ -1,4 +1,5 @@
 import React from "react";
+import ProjectButton from "./ProjectButton";
 
 export default function Project(props) {
   return (
@@ -6,6 +7,9 @@ export default function Project(props) {
         <h4> {props.title} </h4>
         <p> Tech: {props.tech} </p>
         <p> {props.description} </p>
-      </div>
+        <div className="all-btns">
+        <ProjectButton /><ProjectButton />
+        </div>
+    </div>
   );
 }

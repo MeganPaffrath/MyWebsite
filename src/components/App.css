@@ -20,3 +20,30 @@ body h3 {
 body h4 {
   color: var(--emph-two);
 }
+
+.all-btns {
+  text-align: center;
+}
+
+.project-btn {
+  color: var(--emph-one);
+  background-color: var(--bk-one);
+  border: 5px solid var(--emph-two);
+  border-radius: 10px;
+  margin: 0 10px;
+}
+
+.project-btn-logo {
+  fill: var(--emph-two);
+}
+
+.project-btn:hover {
+  color: var(--emph-one);
+  background-color: var(--bk-two);
+  border: 5px solid var(--emph-one);
+  border-radius: 10px;
+}
+
+.project-btn-logo {
+  fill: var(--emph-one);
+}
