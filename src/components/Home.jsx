@@ -15,7 +15,7 @@ function greeting() {
 
 export default function Home() {
   return (
-    <div class="home">
+    <div className="home">
       <h1>{greeting()}</h1>
       <p>My name is Megan Paffrath. I got my degree in Computer Science in December of 2020 from CSU East Bay! </p>
 

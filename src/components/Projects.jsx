@@ -1,13 +1,13 @@
 import React from "react";
 import Project from "./Project";
-import projects from "./projects.js";
+import projectItems from "./project-items.js";
 
-console.log(projects);
+console.log(projectItems);
 
 function createProject(project) {
   return (
   <Project
-      key={project.key}
+      key={project.id}
       title={project.title}
       tech={project.tech}
       description={project.description}
@@ -19,7 +19,7 @@ export default function Projects() {
   return (
     <div className="projects">
       <h1>Projects</h1>
-      {projects.map(createProject)}
+      {projectItems.map(createProject)}
     </div>
   )
 }

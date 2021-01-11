@@ -16,7 +16,7 @@ const projects = [
     tech: "Python",
     description: "This program utilizes exif data to figure out when photos and videos were taken. Using that data, it changes the file name of multiple photos and videos at a time to contain the date and time the photos and videos were taken. This program works for jpg, mp4, and MOV files."
   }, {
-    id: "photo-renamer",
+    id: "simon-memory",
     title: "Simon Memory Game",
     tech: "JavaScript, HTML, CSS",
     description: "The computer creates a pattern that the user must guess correctly to move forward. Every time the user guesses correctly, the computer adds one more event to the pattern. The pattern gets progressively longer until the player fails to guess the pattern properly. This game was created with the help of an online course. Also, this game is not yet available for mobile."

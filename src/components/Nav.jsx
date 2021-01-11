@@ -1,5 +1,4 @@
-import { Link, Route} from "react-router-dom";
-import style from "./nav.css";
+import { Link} from "react-router-dom";
 
 export default function Nav() {
 
@@ -13,7 +12,7 @@ export default function Nav() {
         <Link to="/education">
           <li>Education</li>
         </Link>
-        <li><a target="_blank" href="https://drive.google.com/file/d/1ghc4nvZRyzRRUuxYSLv2bi543ddKw2nF/view">Resume</a></li>
+        <li><a target="_blank" rel="noreferrer" href="https://drive.google.com/file/d/1ghc4nvZRyzRRUuxYSLv2bi543ddKw2nF/view">Resume</a></li>
         
       </ul>
     </nav>
