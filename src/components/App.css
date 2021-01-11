@@ -11,15 +11,48 @@
   --links: #235789;
 }
 
+body {
+  margin: 0;
+  padding: 0;
+}
+
 body h1,
 body h2,
-body h3 {
+body h3,
+body h4 {
+  text-align: center;
+}
+
+body h1,
+body h2 {
   color: var(--emph-one);
 }
 
-body h4 {
-  color: var(--emph-two);
+body h3 {
+  color: var(--bk-two);
 }
+
+section {
+  padding: 20px 10%;
+}
+
+section:nth-child(odd) {
+  background-color: var(--bk-two);
+}
+
+section:nth-child(even) {
+  background-color: var(--bk-one);
+}
+
+.single-box {
+  background-color: var(--emph-one);
+  border: 5px solid var(--emph-one);
+  border-radius: 20px;
+
+  margin: 5% 0;
+}
+
+/* BUTTONS */
 
 .all-btns {
   text-align: center;
