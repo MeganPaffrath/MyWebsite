@@ -17,15 +17,19 @@ export default function Home() {
   return (
     <div className="home">
       <section>
-        <h1>{greeting()}</h1>
-        <p>My name is Megan Paffrath. I got my degree in Computer Science in December of 2020 from CSU East Bay! </p>
+        <div class="page-boundary">
+          <h1>{greeting()}</h1>
+          <p>My name is Megan Paffrath. I got my degree in Computer Science in December of 2020 from CSU East Bay! </p>
 
-        <p>I consider learning and self development to be my biggest hobbies. You will never fail to find me without a personal project going. I have many plans for future apps and websites that I look forward to creating. I invite you to learn more about my journey through this very website.</p>
-        
-        <p>Programmer | Musician | Artist</p>
+          <p>I consider learning and self development to be my biggest hobbies. You will never fail to find me without a personal project going. I have many plans for future apps and websites that I look forward to creating. I invite you to learn more about my journey through this very website.</p>
+          
+          <p>Programmer | Musician | Artist</p>
+        </div>
       </section>
       <section>
-        <Projects />
+        <div class="page-boundary">
+         <Projects />
+        </div>
       </section>
     </div>
   )
