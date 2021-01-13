@@ -40,6 +40,10 @@ body h3 {
   color: var(--bk-two);
 }
 
+p {
+  text-align: justify;
+}
+
 .page-boundary {
   width: 90%;
   max-width: 50em;
@@ -51,7 +55,7 @@ body h3 {
 section {
   background-color: inherit;
   margin: 0;
-  padding: 8% 0;
+  padding: 5% 0;
 }
 
 section:nth-child(odd) {
@@ -79,7 +83,7 @@ section:nth-child(even) {
 .project-btn {
   color: var(--emph-one);
   background-color: var(--bk-one);
-  border: 5px solid var(--emph-two);
+  border: 5px solid var(--emph-one);
   border-radius: 10px;
   margin: 0 10px;
 }
@@ -91,8 +95,8 @@ section:nth-child(even) {
 .project-btn:hover {
   color: var(--emph-one);
   background-color: var(--bk-two);
-  border: 5px solid var(--emph-one);
-  border-radius: 10px;
+  border: 5px solid var(--emph-two);
+  /* border-radius: 10px; */
 }
 
 /* NAVIGATION */
@@ -103,16 +107,19 @@ nav {
 
 .nav-logo {
   text-align: left;
+  color: var(--bk-two);
 }
 
 .nav-links {
   text-align: right;
+  
 }
 
 .nav-side-l a,
 .nav-side-r a {
   text-decoration: none;
-  color: var(--emph-one);
+  /* color: var(--emph-one); */
+  color: var(--bk-two);
 }
 
 .nav-box {
@@ -130,3 +137,4 @@ nav {
   grid-column-start: 2;
   grid-column-end: 3;
 }
+
