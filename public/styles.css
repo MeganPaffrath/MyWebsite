@@ -57,16 +57,18 @@ p {
 
 .page-boundary {
   width: 90%;
-  max-width: 50em;
+  max-width: 800px;
   min-width: 100px;
-  padding: 20px auto;
+  /* padding: 20px auto;
+  margin: 0 auto; */
   margin: 0 auto;
+  padding: 5% 0;
 }
 
 section {
   background-color: inherit;
-  margin: 0;
-  padding: 5% 0;
+  /* margin: 0; */
+  /* padding: 5% 0; */
 }
 
 section:nth-child(odd) {
@@ -126,16 +128,23 @@ nav {
 
 .nav-logo {
   text-align: left;
-  line-height: 40px;
   color: var(--nav-txt);
 }
 
 .nav-links {
   text-align: right;
   font-size: 15px;
-  line-height: 50px;
-  vertical-align: middle;
   color: var(--nav-txt);
+}
+
+.nav-links a {
+  text-transform: uppercase;
+}
+
+.nav-side-r,
+.nav-side-l {
+  display: flex;
+  align-items: center;
 }
 
 .nav-side-l a,
@@ -144,10 +153,15 @@ nav {
   color: inherit;
 }
 
+.nav-side-r h1 {
+  width: 100%;
+  text-align: right;
+}
+
 .nav-box {
   display: grid;
   grid-template-columns: auto auto;
-
+  padding: 5px;
 }
 
 .nav-side-l {
