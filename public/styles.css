@@ -1,21 +1,24 @@
 :root {
   --hdr-ftr: #416165;
+  --nav-txt: #f1f1dc;
   --bk-one: #fefeea;
   --bk-two: #f1f1dc;
-  --emph-one: #70877f; /* h1 70877F*/
-  --emph-two: #817f95; /* h4 4F5D75*/
+  --emph-one: #8daaa0; /* h1 70877F --emph-one: #70877f;*/
+  --dark-text: #1b2b25;
+  --box-text: #f1f1dc;
   --h-five: #8db580;
   --black: #020202;
   --white: #ffffff;
-  --nav-txt: #f1f1dc;
   --links: #235789;
 }
 
 * {
   background-color: var(--hdr-ftr);
+  font-family: 'Rubik', sans-serif;
+  font-weight: 400;
 }
 
-body, h1, h2, h3, h4, p, div, .project-btn-logo {
+body, h1, h2, h3, h4, p, div, .project-btn-logo, center {
   background-color: inherit;
 }
 
@@ -29,6 +32,7 @@ body h2,
 body h3,
 body h4 {
   text-align: center;
+  font-weight: 400;
 }
 
 body h1,
@@ -42,6 +46,13 @@ body h3 {
 
 p {
   text-align: justify;
+  color: var(--dark-text);
+}
+
+@media only screen and (max-width: 600px) {
+  p {
+    font-size: 14px;
+  }
 }
 
 .page-boundary {
@@ -68,10 +79,17 @@ section:nth-child(even) {
 
 .single-box {
   background-color: var(--emph-one);
-  border: 5px solid var(--emph-one);
-  border-radius: 20px;
-
+  border-radius: 5px;
   margin: 5% 0;
+  padding: 10px 5%;
+}
+
+.single-box p {
+  text-align: left;
+}
+
+.single-box h3 {
+  text-align: left;
 }
 
 /* BUTTONS */
@@ -95,8 +113,9 @@ section:nth-child(even) {
 .project-btn:hover {
   color: var(--emph-one);
   background-color: var(--bk-two);
-  border: 5px solid var(--emph-two);
-  /* border-radius: 10px; */
+  border: 5px solid var(--hdr-ftr);
+  border-radius: 10px;
+  margin: 0 10px;
 }
 
 /* NAVIGATION */
@@ -107,19 +126,22 @@ nav {
 
 .nav-logo {
   text-align: left;
-  color: var(--bk-two);
+  line-height: 40px;
+  color: var(--nav-txt);
 }
 
 .nav-links {
   text-align: right;
-  
+  font-size: 15px;
+  line-height: 50px;
+  vertical-align: middle;
+  color: var(--nav-txt);
 }
 
 .nav-side-l a,
 .nav-side-r a {
   text-decoration: none;
-  /* color: var(--emph-one); */
-  color: var(--bk-two);
+  color: inherit;
 }
 
 .nav-box {
@@ -138,3 +160,11 @@ nav {
   grid-column-end: 3;
 }
 
+/* FOOTER */
+footer h3 {
+  margin-top: 0;
+  padding-top: 0;
+}
+footer {
+  padding: 20px 0;
+}

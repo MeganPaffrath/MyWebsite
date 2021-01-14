@@ -13,8 +13,6 @@ function App() {
         <Switch>
           <Route path="/" exact component={Home} />
           <Route path="/education" exact component={Education} />
-          {/* <Route path="/about" component={About} /> */}
-          {/* <Route path="/shop" component={Shop} /> */}
         </Switch>
       </  div>
       <Footer />

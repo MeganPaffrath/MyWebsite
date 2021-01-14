@@ -13,7 +13,7 @@ export default function Logo() {
 
   return (
     <div style={photoBoxStyle}>
-      <img style={logoStyle} src={megan} alt="Photo of Megan" />
+      <img style={logoStyle} src={megan} alt="Megan Paffrath" />
     </div>
     
   );

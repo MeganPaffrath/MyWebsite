@@ -1,8 +1,6 @@
 import React from "react";
 import Project from "./Project";
-import projectItems from "./project-items.js";
-
-console.log(projectItems);
+import projectItems from "./project-items.json";
 
 function createProject(project) {
   return (
@@ -11,6 +9,7 @@ function createProject(project) {
       title={project.title}
       tech={project.tech}
       description={project.description}
+      links={project.links}
     />
   );
 }

@@ -1,6 +1,5 @@
 import React from "react";
-import ProjectButton from "./ProjectButton";
-import MdCode from 'react-ionicons/lib/MdCode';
+import ProjectButton from "./LinkButton";
 
 export default function Project(props) {
   return (
@@ -9,8 +8,11 @@ export default function Project(props) {
         <p> Technology: {props.tech} </p>
         <p> {props.description} </p>
         <div className="all-btns">
-        <ProjectButton /><ProjectButton />
+          {props.links.github ? <ProjectButton type="github" link={props.links.github} text="View on Github"/> : null}
+          {props.links.google ? <ProjectButton /> : null}
         </div>
     </div>
   );
 }
+
+// {projectItems.map(createProject)}
