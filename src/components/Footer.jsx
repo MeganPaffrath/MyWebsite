@@ -12,6 +12,6 @@ export default function Footer() {
         <LinkButton type="github" link="https://github.com/MeganPaffrath" text=""/>
         <LinkButton type="linkedin" link="https://www.linkedin.com/in/meganpaffrath/" text=""/>
       </center>
-      </footer>
+    </footer>
   );
 }
