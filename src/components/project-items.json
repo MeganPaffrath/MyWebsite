@@ -1,0 +1,34 @@
+[{
+  "id": "meganpaffrath.com",
+  "title": "This Website",
+  "tech": "React, JavaScript, HTML, CSS",
+  "description": "This passion project of mine is a result of my continuous efforts to learn new web development skills. It is an ever-evolving project in which changes are constantly being made. It all began as simple HTML, CSS, and JavaScript. Later this page evolved to become a templated webpage using Nunjucks. And now, this web page is made up of multiple React components thus enabling greater scalability and optimality for the future! All of these project components were dynamically created from a JSON document, this will make for easy editing down the line!",
+  "links": {
+    "github": "https://github.com/MeganPaffrath/my-website"
+  }
+},
+{
+  "id": "time-tracker",
+  "title": "Time Tracker",
+  "tech": "MERN Stack - MongoDB, Express, React, Node",
+  "description": "The Time Tracker is a web application for keeping track of the time you spend each day doing certain tasks. My inspiration came from my abnormal habit of logging how long I spend playing guitar and coding each day. This application keeps track of user sessions with JWTs. The backend supports requests including: registration, login, logout, adding time logs, and viewing time logs for the month. This is still a work in progress with many updates to come!",
+  "links": {
+    "github": "https://github.com/MeganPaffrath/time-tracker"
+  }
+},{
+  "id": "appointment-alerts",
+  "title": "Appointment Alert System",
+  "tech": "C++, Twilio API",
+  "description": "This program provides a way for doctors office personnel to store patient information and appointments. Whenever new patients register, they receive a text message. When a patient creates a new appointment, they also receive a text message to verify that their appointment was properly created.",
+  "links": {
+    "github": "https://github.com/MeganPaffrath/AppointmentAlertSystem"
+  }
+}, {
+  "id": "photo-renamer",
+  "title": "Photo Renamer",
+  "tech": "Python",
+  "description": "This program utilizes exif data to figure out when photos and videos were taken. Using that data, it changes the file names of multiple photos and videos at a time to contain the date and time each was taken. This program works for jpg, mp4, and MOV files.",
+  "links": {
+    "github": "https://github.com/MeganPaffrath/photo-renamer"
+  }
+}]
