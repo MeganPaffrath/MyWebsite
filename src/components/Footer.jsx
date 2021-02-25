@@ -1,5 +1,5 @@
 import React from "react";
-import LinkButton from "./LinkButton";
+import ProjectButton from "./ProjectButton";
 
 export default function Footer() {
   const date = new Date();
@@ -9,8 +9,8 @@ export default function Footer() {
     <footer>
       <h3> &copy; {year} Megan Paffrath</h3>
       <center>
-        <LinkButton type="github" link="https://github.com/MeganPaffrath" text=""/>
-        <LinkButton type="linkedin" link="https://www.linkedin.com/in/meganpaffrath/" text=""/>
+        <ProjectButton type="github" link="https://github.com/MeganPaffrath" text=""/>
+        <ProjectButton type="linkedin" link="https://www.linkedin.com/in/meganpaffrath/" text=""/>
       </center>
     </footer>
   );

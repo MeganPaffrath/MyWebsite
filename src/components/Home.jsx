@@ -12,7 +12,7 @@ export default function Home() {
         </div>
       </section>
       <section>
-        <div className="page-boundary">
+        <div className="page-boundary padding-top-bottom">
          <Projects />
         </div>
       </section>

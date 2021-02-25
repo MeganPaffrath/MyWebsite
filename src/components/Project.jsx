@@ -1,5 +1,6 @@
 import React from "react";
-import ProjectButton from "./LinkButton";
+import ProjectButton from "./ProjectButton";
+
 
 export default function Project(props) {
   return (
@@ -9,10 +10,8 @@ export default function Project(props) {
         <p> {props.description} </p>
         <div className="all-btns">
           {props.links.github ? <ProjectButton type="github" link={props.links.github} text="View on Github"/> : null}
-          {props.links.google ? <ProjectButton /> : null}
+          {props.links.live ? <ProjectButton type="live" link={props.links.live} text="View Live"/> : null}
         </div>
     </div>
   );
 }
-
-// {projectItems.map(createProject)}

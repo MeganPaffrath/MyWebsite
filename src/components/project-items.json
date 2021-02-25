@@ -1,21 +1,24 @@
 [{
-  "id": "meganpaffrath.com",
-  "title": "This Website",
-  "tech": "React, JavaScript, HTML, CSS",
-  "description": "This passion project of mine is a result of my continuous efforts to learn new web development skills. It is an ever-evolving project in which changes are constantly being made. It all began as simple HTML, CSS, and JavaScript. Later this page evolved to become a templated webpage using Nunjucks. And now, this web page is made up of multiple React components thus enabling greater scalability and optimality for the future! All of these project components were dynamically created from a JSON document, this will make for easy editing down the line!",
+  "id": "time-tracker",
+  "title": "Growth By Day",
+  "tech": "MERN Stack - MongoDB, Express, React, Node",
+  "description": "This live and running full stack time tracker application helps users keep track of the time spent each day on certain tasks/activities. The user can sort their time logs by activity category or month as well as view all logs at once. Also, the user can view graphs of how many hours they put into an activity each day of a selected month. This application keeps track of user sessions with JSON Web Tokens. The backend supports requests including: registration, login, logout, adding time logs, deleting time logs, and getting time logs. This is still a work in progress with many updates and new features to come! My inspiration for this project came from my habit of tracking how long I spend playing guitar and coding each day (my two biggest passions). ",
   "links": {
-    "github": "https://github.com/MeganPaffrath/my-website"
+    "github": "https://github.com/MeganPaffrath/time-tracker",
+    "live": "https://growthbyday.com/"
   }
 },
 {
-  "id": "time-tracker",
-  "title": "Time Tracker",
-  "tech": "MERN Stack - MongoDB, Express, React, Node",
-  "description": "The Time Tracker is a web application for keeping track of the time you spend each day doing certain tasks. My inspiration came from my abnormal habit of logging how long I spend playing guitar and coding each day. This application keeps track of user sessions with JWTs. The backend supports requests including: registration, login, logout, adding time logs, and viewing time logs for the month. This is still a work in progress with many updates to come!",
+  "id": "recipe-book",
+  "title": "Recipe Book",
+  "tech": "React",
+  "description": "I love to cook - I cook just about every meal I eat. The worst parts about cooking for me was trying to remember recipes and searching though old recipes to find exactly what I was looking for. To solve this issue - I created a virtual recipe book. This “book” lets me search by recipe name, ingredient, and oven temperature! By adding the ability to search by oven temperature, I was able to learn what recipes I can cook at the same time - this makes for easy meal prep and more efficient meals!",
   "links": {
-    "github": "https://github.com/MeganPaffrath/time-tracker"
+    "github": "https://github.com/MeganPaffrath/recipe-book",
+    "live": "https://meganpaffrath.github.io/recipe-book/"
   }
-},{
+},
+{
   "id": "appointment-alerts",
   "title": "Appointment Alert System",
   "tech": "C++, Twilio API",
@@ -23,12 +26,13 @@
   "links": {
     "github": "https://github.com/MeganPaffrath/AppointmentAlertSystem"
   }
-}, {
-  "id": "photo-renamer",
-  "title": "Photo Renamer",
-  "tech": "Python",
-  "description": "This program utilizes exif data to figure out when photos and videos were taken. Using that data, it changes the file names of multiple photos and videos at a time to contain the date and time each was taken. This program works for jpg, mp4, and MOV files.",
+},
+{
+  "id": "meganpaffrath.com",
+  "title": "This Website",
+  "tech": "React, JavaScript, HTML, CSS",
+  "description": "This passion project of mine is a result of my continuous efforts to learn new web development skills. It is an ever-evolving project in which changes are constantly being made. It all began as simple HTML, CSS, and JavaScript. Later this page evolved to become a templated webpage using Nunjucks. And now, this web page is made up of multiple React components thus enabling greater scalability and optimality for the future! All of these project components were dynamically created from a JSON document, this will make for easy editing down the line!",
   "links": {
-    "github": "https://github.com/MeganPaffrath/photo-renamer"
+    "github": "https://github.com/MeganPaffrath/my-website"
   }
 }]
